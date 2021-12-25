@@ -13,13 +13,14 @@ It's A Fullstack Android Application Made For Gaining Experience In Android And 
 
 ============================ Features ===============================
 
-1) On-Boarding Screens
+1) On-Boarding Screens.
 2) Includes LottieAnimations , Adobe After Effects Animations(Made by me), Adobe Photoshop Edited Photos(Made by me).
 3) Includes A SignUp / SignIn Page Connected To DataBase.
 4) Includes RecyclerViews With Animations.
 5) Includes A Notification Bar With Badges.
 6) Supports Firebase (code is commented)
 7) Includes Add To Favourite & Add To Cart Feature.
+8) Supports Vibration.
 
 ============================ Demo Of The App =========================
 
